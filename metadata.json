@@ -1,0 +1,6 @@
+{
+  "name": "Deadline Defender AI",
+  "description": "Your AI rescue companion before deadlines become disasters. Prioritize tasks with Gemini, calculate Smart Risk Scores, trigger Rescue Mode with Pomodoro focus timers, plan daily blocks, and consult our conversational productivity coach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
