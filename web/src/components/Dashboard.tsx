@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { 
   ShieldAlert, CheckCircle2, Flame, RefreshCw, Zap, Coffee, Plus, 
-  Trash2, ShieldCheck, Sparkles, Clock, AlertTriangle, ArrowRight, Play
+  Trash2, ShieldCheck, Sparkles, Clock, AlertTriangle, ArrowRight, Play, Check
 } from 'lucide-react';
 import { Task, Habit } from '../types/task';
 import { calculateRiskDetails } from '../utils/riskEngine';

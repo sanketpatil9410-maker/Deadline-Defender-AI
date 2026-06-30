@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { 
   ShieldAlert, Flame, RefreshCw, Trophy, Sparkles, HelpCircle, 
-  Layers, Settings, Menu, X, Check, ShieldCheck, Cpu
+  Layers, Settings, Menu, X, Check, ShieldCheck, Cpu, Calendar, AlertTriangle
 } from 'lucide-react';
 
 // Types
